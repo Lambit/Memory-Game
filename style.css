@@ -1,0 +1,19 @@
+#game div {
+  border: 1px solid black;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+h1{
+  font-size: 5rem;
+  color: coral;
+}
+
+body{
+  text-align: center;
+  background-color: lightblue;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
